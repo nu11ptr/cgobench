@@ -6,7 +6,7 @@ import "unsafe"
 #cgo CFLAGS: -O3
 
 int test0() {
-  return 1;
+	return 1;
 }
 
 int test1(int a) {
